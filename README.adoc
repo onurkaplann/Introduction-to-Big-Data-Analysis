@@ -1,0 +1,35 @@
+= Introduction to Big Data Analysis
+
+This repository made for Introduction to Big Data Analysis (BLM 442), Kocaeli University.
+
+Includes data analysis, data visualization and machine learning with Python, Spark, SQLite and Tableau.
+
+---
+Data Analysis with SQLite::: 
+
+* https://github.com/onurkaplann/Introduction-to-Big-Data-Analysis/blob/master/Data%20Analysis%20with%20SQLite/Activity3.ipynb[Notebook]
+
+Data Visualization:::
+
+* https://github.com/onurkaplann/Introduction-to-Big-Data-Analysis/tree/master/Data%20Visualization/Tableau[with Tableau]
+ 
+* https://github.com/onurkaplann/Introduction-to-Big-Data-Analysis/blob/master/Data%20Visualization/Python/Activity4.ipynb[with Python]
+
+* https://github.com/onurkaplann/Introduction-to-Big-Data-Analysis/tree/master/Data%20Visualization/Excel[with Excel]
+
+Machine Learning:::
+
+* https://github.com/onurkaplann/Introduction-to-Big-Data-Analysis/blob/master/Machine%20Learning/Activity5.ipynb[Notebook]
+
+Spark SQL and MLlib:::
+
+* https://github.com/onurkaplann/introduction-to-big-data-analysis/tree/master/Spark%20SQL%20and%20MLlib[Spark]
+
+---
+
+Datasets:::
+1. https://www.kaggle.com/drgilermo/nba-players-stats-20142015[NBA Players Stats - 2014-2015]
+
+2. https://archive.ics.uci.edu/ml/datasets/Cryotherapy+Dataset+[Cryotherapy Dataset]
+
+3. https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset[FIFA 18 Player Dataset]
